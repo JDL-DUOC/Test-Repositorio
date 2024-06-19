@@ -1,6 +1,13 @@
 import os
 import time
 import csv
+
+
+# PROGRAMA DE VALIDACION DE USUARIOS
+## MODIFICACION GITHUB
+#Jaime DelgadillO lOPEZ
+
+
 Diccionario={}   # Creamos un diccionario vacio
 principal=True
 registro=True
